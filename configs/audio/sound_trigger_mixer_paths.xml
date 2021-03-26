@@ -62,10 +62,10 @@
     <ctl name="EC Reference Channels" value="One"/>
     <ctl name="EC Reference Bit Format" value="0"/>
     <ctl name="EC Reference SampleRate" value="0"/>
-    <ctl name="TX_DEC0 Volume" value="84" />
-    <ctl name="TX_DEC1 Volume" value="84" />
-    <ctl name="TX_DEC2 Volume" value="84" />
-    <ctl name="TX_DEC3 Volume" value="84" />
+    <ctl name="TX_DEC0 Volume" value="79" />
+    <ctl name="TX_DEC1 Volume" value="79" />
+    <ctl name="TX_DEC2 Volume" value="79" />
+    <ctl name="TX_DEC3 Volume" value="79" />
 
     <path name="listen-voice-wakeup-1">
         <ctl name="TX_CDC_DMA_TX_3 LSM Function" value="SWAUDIO" />
