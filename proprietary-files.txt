@@ -473,5 +473,10 @@ vendor/etc/thermal-youtube.confs
 vendor/etc/thermald-devices.conf
 vendor/lib64/libthermalclient.so
 
+# Vibrator
+vendor/bin/hw/vendor.xiaomi.hardware.vibratorfeature@1.0-service
+vendor/etc/init/vendor.xiaomi.hardware.vibratorfeature@1.0-service.rc
+vendor/lib64/vendor.xiaomi.hardware.vibratorfeature@1.0.so
+
 # WLAN
 vendor/bin/cnss-daemon
