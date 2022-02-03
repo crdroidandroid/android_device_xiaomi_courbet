@@ -13,6 +13,7 @@ $(call inherit-product, device/xiaomi/courbet/device.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+TARGET_SUPPORTS_QUICK_TAP := true
 
 PRODUCT_NAME := lineage_courbet
 PRODUCT_DEVICE := courbet
