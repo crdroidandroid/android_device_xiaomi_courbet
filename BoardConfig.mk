@@ -19,6 +19,9 @@ TARGET_OTA_ASSERT_DEVICE := courbet,courbetin
 # Audio
 TARGET_PROVIDES_AUDIO_EXTNS := true
 
+# Camera
+MALLOC_SVELTE := true
+
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/configs/hidl/manifest.xml
 ODM_MANIFEST_SKUS += courbet
