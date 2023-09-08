@@ -1,0 +1,29 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "14.0-courbet"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_xiaomi_courbet",
+    "target_path": "kernel/xiaomi/sm6150"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi_courbet",
+    "target_path": "vendor/xiaomi/courbet"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-21"
+  },
+  {
+    "repository": "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-playground",
+    "target_path": "prebuilts/clang/host/linux-x86/neutron-clang",
+    "remote": "crdroid-gitlab"
+  }
+]
