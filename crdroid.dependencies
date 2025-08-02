@@ -2,12 +2,12 @@
   {
     "repository": "crdroidandroid/android_device_xiaomi_sm6150-common",
     "target_path": "device/xiaomi/sm6150-common",
-    "branch": "15.0-courbet"
+    "branch": "16.0-courbet"
   },
   {
     "repository": "crdroidandroid/android_kernel_xiaomi_sm6150",
     "target_path": "kernel/xiaomi/sm6150",
-    "branch": "15.0-courbet"
+    "branch": "16.0-courbet"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_xiaomi_courbet",
@@ -16,23 +16,22 @@
   {
     "repository": "crdroidandroid/proprietary_vendor_xiaomi_sm6150-common",
     "target_path": "vendor/xiaomi/sm6150-common",
-    "branch": "15.0-courbet"
+    "branch": "16.0-courbet"
   },
   {
     "repository": "crdroidandroid/android_hardware_xiaomi",
-    "target_path": "hardware/xiaomi",
-    "branch": "15.0"
+    "target_path": "hardware/xiaomi"
   },
   {
     "repository": "crdroidandroid/android_device_xiaomi_miuicamera",
     "target_path": "device/xiaomi/miuicamera-sweet",
-    "branch": "15.0-courbet",
+    "branch": "16.0-courbet",
     "remote": "crdroid-gitlab"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_xiaomi_miuicamera",
     "target_path": "vendor/xiaomi/miuicamera-sweet",
-    "branch": "15.0-courbet",
+    "branch": "16.0-courbet",
     "remote": "crdroid-gitlab"
   }
 ]
